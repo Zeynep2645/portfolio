@@ -30,3 +30,10 @@ I developed EpinMusic to simplify digital music distribution and e-pin sales for
 I worked on full-stack development including backend, frontend, and payment integration.
 
 ---
+
+## 📸 Screenshot
+
+Here is a preview of the EpinMusic dashboard:
+
+![EpinMusic Screenshot](screencapture-muzik-zebifytech-2025-07-07-12_21_49.png)
+
